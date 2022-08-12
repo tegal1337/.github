@@ -65,4 +65,4 @@
 <!-- <img href="https://github.com/tegal1337/.github/blob/main/workflows/snake.yml" alt="Snake animation" /> -->
 
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tegal1337&theme=dark)](https://git.io/streak-stats)
+
