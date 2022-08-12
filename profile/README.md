@@ -11,11 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-github-metrics)
 
-[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
-
-Ge[Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsors.svg)
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
@@ -65,6 +61,6 @@ Ge[Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsor
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/tegal1337/tegal1337/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img href="https://github.com/tegal1337/.github/blob/main/workflows/snake.yml" alt="Snake animation" /> -->
 
 ###
