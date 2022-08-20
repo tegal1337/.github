@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/LoliC0d3/LogoTegal1337/master/LOGO_COLOR1%401024.png"  />
 
 ###
 
