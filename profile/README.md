@@ -57,8 +57,14 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+ <p class="copy">
+Tegal security or also known as Tegalsec is a non-profit community that focuses on computer security as a forum for cybersecurity activists in the city of Tegal. Starting from an IT tutorial website, Tegalsec itself eventually became an active community committed to providing education.
+      <p class="copy">
+      <b>Commitment in providing education</b></br>
+      We are very happy to hold various activities such as seminars, sharing sessions to educate the public about IT crimes or IT-related issues that were going viral at the time.<br>
+As our commitment in providing education, we are very open to anyone who wants to join us
+      </p>
 
-###
 
 <br clear="both">
 
